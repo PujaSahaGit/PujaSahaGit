@@ -1,6 +1,9 @@
 <img src="https://github.com/PujaSahaGit/Its-PujaSaha/blob/main/1.png">
+
 # Hey ✋, I am <a href="https://www.linkedin.com/in/puja-saha-b86914249/" target="_blank">Puja</a>. Welcome to my Profile ✌️
-<b>B.Tech in Electronics & Communication Engineering from [Institute of Engineering & Management,Kolkata](https://iem.edu.in/).</b><br>
+
+<b>B.Tech in Electronics & Communication Engineering from <br>
+[Institute of Engineering & Management,Kolkata](https://iem.edu.in/).</b><br>
 I'm interested in reaching people🤝 on various platforms and doing projects👨‍💻 using various Technologies 🤖<br>
 <hr>
 <br>
