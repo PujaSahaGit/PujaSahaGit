@@ -1,4 +1,4 @@
-<img src="https://github.com/PujaSahaGit/Its-PujaSaha/blob/main/1.png">
+<img src="https://github.com/PujaSahaGit/PujaSahaGit/blob/main/1.png">
 
 # Hey ✋, I am <a href="https://www.linkedin.com/in/puja-saha-b86914249/" target="_blank">Puja</a>. Welcome to my Profile ✌️
 
