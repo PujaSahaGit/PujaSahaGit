@@ -55,7 +55,6 @@ I'm interested in reaching people🤝 on various platforms and doing projects�
 <hr>
 <h3>💫Hosting Tools 🪄</h3>
 <p align="center">
- <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify"/>
  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel">
 </p>
 <hr>
